@@ -14,8 +14,7 @@ The purpose is to practice problem-solving and build a strong foundation for cod
 - `dynamic_programming/` – DP & optimization problems  
 - (folders will be filled step by step)
 
-## 🚀 Notes
-- Solutions are currently in **C++** (more languages may be added later).  
+## 🚀 Notes 
 - Each file includes:
   - Problem link  
   - Short explanation / approach  
