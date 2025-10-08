@@ -9,6 +9,7 @@ This folder includes my solutions to fundamental **array problems** from LeetCod
 |   | Problem | Description | Time | Space |
 |---|----------|--------------|------|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Find two numbers that add up to a target using a hash map. | O(n) | O(n) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Java | Two-pointer technique — move shorter line inward (`O(n)`) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Java | Sorting + two-pointer technique with duplicate skipping (`O(n²)`) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Use Kadane’s algorithm to find the contiguous subarray with the largest sum. | O(n) | O(1) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Track the minimum stock price to compute the best profit. | O(n) | O(1) |
